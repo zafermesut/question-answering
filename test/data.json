@@ -1,0 +1,22 @@
+[
+    {
+        "context": "The Eiffel Tower, located in Paris, France, was constructed in 1889 as the entrance arch for the 1889 World's Fair. It is one of the most visited monuments in the world and stands at a height of 330 meters.",
+        "question": "When was the Eiffel Tower constructed?",
+        "true_answer": "1889"
+    },
+    {
+        "context": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize food from carbon dioxide and water. It primarily occurs in the chloroplasts of plant cells.",
+        "question": "Where does photosynthesis primarily occur?",
+        "true_answer": "chloroplasts"
+    },
+    {
+        "context": "J.K. Rowling is the author of the famous Harry Potter series, which consists of seven books. The series has sold over 500 million copies worldwide and has been translated into more than 80 languages.",
+        "question": "How many books are there in the Harry Potter series?",
+        "true_answer": "seven"
+    },
+    {
+        "context": "The Amazon River is the second-longest river in the world and has the largest drainage basin. It flows through South America, primarily Brazil, and is home to a diverse range of flora and fauna.",
+        "question": "Which continent does the Amazon River flow through?",
+        "true_answer": "South America"
+    }
+]
